@@ -1,0 +1,10 @@
+body {
+  padding: 350px;
+  justify-content: center;
+  background-color: #3d1d1d;
+  background-position: center;
+  color: rgb(131, 190, 21)
+}
+.import{
+  background-position: center;
+}
